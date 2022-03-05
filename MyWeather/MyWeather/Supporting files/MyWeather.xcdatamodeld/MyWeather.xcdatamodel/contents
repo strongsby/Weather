@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19206" systemVersion="20F71" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CurrentCoreData" representedClassName="CurrentCoreData" syncable="YES">
+        <attribute name="attribute" optional="YES" attributeType="String"/>
+        <attribute name="date" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="icon" optional="YES" attributeType="String"/>
+        <attribute name="temp" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="DailyCoreData" representedClassName="DailyCoreData" syncable="YES">
+        <attribute name="attribute" optional="YES" attributeType="String"/>
+        <attribute name="da" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="icon" optional="YES" attributeType="String"/>
+        <attribute name="tempMax" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="tmpMin" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="WeatherCoreData" representedClassName="WeatherCoreData" syncable="YES">
+        <attribute name="active" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="city" optional="YES" attributeType="String"/>
+        <relationship name="current" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="CurrentCoreData"/>
+        <relationship name="daily" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="DailyCoreData"/>
+        <relationship name="hourly" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="CurrentCoreData"/>
+    </entity>
+    <elements>
+        <element name="CurrentCoreData" positionX="-54" positionY="0" width="128" height="14"/>
+        <element name="DailyCoreData" positionX="-36" positionY="9" width="128" height="14"/>
+        <element name="WeatherCoreData" positionX="-63" positionY="-18" width="128" height="104"/>
+    </elements>
+</model>
