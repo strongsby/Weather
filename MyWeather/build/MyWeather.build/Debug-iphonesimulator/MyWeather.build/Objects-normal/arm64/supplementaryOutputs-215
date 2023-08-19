@@ -1,0 +1,15 @@
+"/Users/sergo/Weather/MyWeather/MyWeather/Services/NetworkManager.swift":
+  dependencies: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/NetworkManager.d"
+  diagnostics: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/NetworkManager.dia"
+  object: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/NetworkManager.o"
+  swift-dependencies: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/NetworkManager.swiftdeps"
+"/Users/sergo/Weather/MyWeather/MyWeather/GlobalSettings/GlobalSettings.swift":
+  object: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/GlobalSettings.o"
+  dependencies: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/GlobalSettings.d"
+  diagnostics: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/GlobalSettings.dia"
+  swift-dependencies: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/GlobalSettings.swiftdeps"
+"/Users/sergo/Weather/MyWeather/MyWeather/Controllers/CityVC/CityVC.swift":
+  object: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/CityVC.o"
+  dependencies: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/CityVC.d"
+  diagnostics: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/CityVC.dia"
+  swift-dependencies: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/CityVC.swiftdeps"

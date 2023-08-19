@@ -1,0 +1,20 @@
+"/Users/sergo/Weather/MyWeather/MyWeather/Controllers/MainVC/Cells/SectionHeader.swift":
+  dependencies: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/SectionHeader.d"
+  object: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/SectionHeader.o"
+  swift-dependencies: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/SectionHeader.swiftdeps"
+  diagnostics: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/SectionHeader.dia"
+"/Users/sergo/Weather/MyWeather/MyWeather/Helpers/DateFormator.swift":
+  swift-dependencies: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/DateFormator.swiftdeps"
+  dependencies: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/DateFormator.d"
+  diagnostics: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/DateFormator.dia"
+  object: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/DateFormator.o"
+"/Users/sergo/Weather/MyWeather/MyWeather/Controllers/CityVC/Cells/Cell.swift":
+  object: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/Cell.o"
+  dependencies: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/Cell.d"
+  diagnostics: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/Cell.dia"
+  swift-dependencies: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/Cell.swiftdeps"
+"/Users/sergo/Weather/MyWeather/MyWeather/Helpers/TableView+Reusable.swift":
+  object: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/TableView+Reusable.o"
+  swift-dependencies: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/TableView+Reusable.swiftdeps"
+  dependencies: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/TableView+Reusable.d"
+  diagnostics: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/TableView+Reusable.dia"

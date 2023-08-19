@@ -1,0 +1,20 @@
+"/Users/sergo/Weather/MyWeather/MyWeather/Helpers/AlertHandler.swift":
+  dependencies: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/AlertHandler.d"
+  swift-dependencies: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/AlertHandler.swiftdeps"
+  object: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/AlertHandler.o"
+  diagnostics: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/AlertHandler.dia"
+"/Users/sergo/Weather/MyWeather/MyWeather/Controllers/CityVC/CityViewModel.swift":
+  diagnostics: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/CityViewModel.dia"
+  swift-dependencies: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/CityViewModel.swiftdeps"
+  dependencies: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/CityViewModel.d"
+  object: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/CityViewModel.o"
+"/Users/sergo/Weather/MyWeather/MyWeather/Delegate/CityDelegate.swift":
+  dependencies: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/CityDelegate.d"
+  diagnostics: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/CityDelegate.dia"
+  swift-dependencies: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/CityDelegate.swiftdeps"
+  object: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/CityDelegate.o"
+"/Users/sergo/Weather/MyWeather/MyWeather/Services/CoreDataService.swift":
+  dependencies: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/CoreDataService.d"
+  diagnostics: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/CoreDataService.dia"
+  object: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/CoreDataService.o"
+  swift-dependencies: "/Users/sergo/Weather/MyWeather/build/MyWeather.build/Debug-iphonesimulator/MyWeather.build/Objects-normal/arm64/CoreDataService.swiftdeps"

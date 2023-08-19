@@ -4,6 +4,8 @@ import UIKit
 import CoreLocation
 import CoreData
 
+//Some comment for test
+
 final class MainVC: UIViewController {
 
     // MARK: - Properties
