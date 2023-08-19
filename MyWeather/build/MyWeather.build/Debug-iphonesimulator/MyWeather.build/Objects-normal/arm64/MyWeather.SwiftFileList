@@ -1,0 +1,29 @@
+/Users/sergo/Weather/MyWeather/MyWeather/Services/CoreDataService.swift
+/Users/sergo/Weather/MyWeather/MyWeather/Controllers/CityVC/CityViewModel.swift
+/Users/sergo/Weather/MyWeather/MyWeather/Delegate/CityDelegate.swift
+/Users/sergo/Weather/MyWeather/MyWeather/Helpers/AlertHandler.swift
+/Users/sergo/Weather/MyWeather/MyWeather/Helpers/TableView+Reusable.swift
+/Users/sergo/Weather/MyWeather/MyWeather/Helpers/DateFormator.swift
+/Users/sergo/Weather/MyWeather/MyWeather/Controllers/CityVC/Cells/Cell.swift
+/Users/sergo/Weather/MyWeather/MyWeather/Controllers/MainVC/Cells/SectionHeader.swift
+/Users/sergo/Weather/MyWeather/MyWeather/Controllers/MainVC/MainViewModel.swift
+/Users/sergo/Weather/MyWeather/MyWeather/Helpers/NSSet.swift
+/Users/sergo/Weather/MyWeather/MyWeather/Models/CoreDataModels/CurrentCoreData+CoreDataClass.swift
+/Users/sergo/Weather/MyWeather/MyWeather/Controllers/MainVC/MainVC.swift
+/Users/sergo/Weather/MyWeather/MyWeather/Models/WeatherResponse.swift
+/Users/sergo/Weather/MyWeather/MyWeather/GlobalSettings/UIColor+Default.swift
+/Users/sergo/Weather/MyWeather/MyWeather/Helpers/CollectionView+Reusable.swift
+/Users/sergo/Weather/MyWeather/MyWeather/Models/CoreDataModels/WeatherCoreData+CoreDataClass.swift
+/Users/sergo/Weather/MyWeather/MyWeather/Controllers/MainVC/Cells/HourlyViewCellCell.swift
+/Users/sergo/Weather/MyWeather/MyWeather/Controllers/MainVC/Cells/DailyViewCell.swift
+/Users/sergo/Weather/MyWeather/MyWeather/Services/API.swift
+/Users/sergo/Weather/MyWeather/MyWeather/Controllers/MainVC/Cells/HourlyViewCell.swift
+/Users/sergo/Weather/MyWeather/MyWeather/Models/CoreDataModels/DailyCoreData+CoreDataClass.swift
+/Users/sergo/Weather/MyWeather/MyWeather/Models/CoreDataModels/DailyCoreData+CoreDataProperties.swift
+/Users/sergo/Weather/MyWeather/MyWeather/Models/CoreDataModels/WeatherCoreData+CoreDataProperties.swift
+/Users/sergo/Weather/MyWeather/MyWeather/Services/NetworkManager.swift
+/Users/sergo/Weather/MyWeather/MyWeather/GlobalSettings/GlobalSettings.swift
+/Users/sergo/Weather/MyWeather/MyWeather/Controllers/CityVC/CityVC.swift
+/Users/sergo/Weather/MyWeather/MyWeather/Supporting\ files/AppDelegate.swift
+/Users/sergo/Weather/MyWeather/MyWeather/Models/CoreDataModels/CurrentCoreData+CoreDataProperties.swift
+/Users/sergo/Weather/MyWeather/MyWeather/Supporting\ files/SceneDelegate.swift
